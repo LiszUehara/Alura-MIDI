@@ -1,3 +1,3 @@
-#Alura MIDI
+# Alura MIDI
 
-## projeto criado para treinar javascript
+## Projeto basico criado para treinar javascript
